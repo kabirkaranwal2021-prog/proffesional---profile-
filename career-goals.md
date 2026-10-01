@@ -6,4 +6,6 @@ Improve my programming, problem-solving, Git, and software development skills du
 
 ## Long-Term Goal
 
-Build a successful career as a software developer and work on real-world technology projects.
+Build a successful career as a software developer and work on real-world technology projects.## Additional Goal
+
+Gain practical experience through internships, projects, certifications, and hackathons.
